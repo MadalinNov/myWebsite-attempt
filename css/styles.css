@@ -1,0 +1,163 @@
+body {
+  color: #092532;
+  text-align: center;
+  margin: 0;
+  font-family: sans-serif;
+}
+hr{
+  border-top-style: dotted;
+  width: 5%;
+  border-top-width: thick;
+  color: lightgrey;
+}
+.bg {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+h1{
+  font-family: Rajdhani, serif;
+  font-size: 4.5rem;
+  position: absolute;
+  bottom: 12.5rem;
+}
+p{
+
+  font-family: BioRhyme Expanded, serif;
+  font-size: 2.5rem;
+  position: relative;
+  top: 350px;
+  text-align: center;
+}
+.subtitle{
+  font-weight: bold;
+  font-family: BioRhyme Expanded, sans-serif;
+  font-size: 2rem;
+}
+h2{
+  font-family: BioRhyme Expanded, sans-serif;
+  font-size: 1.5rem;
+}
+h3{
+  font-family: Rajdhani, serif;
+  font-size: 1.3rem;
+}
+
+.introduction {
+  display: block;
+  position: absolute;
+  width: 300px;
+  height: 200px;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
+}
+
+.avatar {
+  border-radius: 100%;
+}
+
+.skill-container {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skills-img1 {
+  margin-top: 20px;
+  margin-right: 20px;
+  float: left;
+  width: 25%;
+  height: 25%;
+  border-radius: 100%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skills-img2 {
+  margin-right: 20px;
+  float: right;
+  width: 25%;
+  height: 25%;
+  border-radius: 100%;
+}
+
+.hobbies-container {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.gaming {
+  margin-right: 20px;
+  float: left;
+  width: 25%;
+  height: 25%;
+  border-radius: 100%;
+}
+
+.hobbies-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.hiking {
+  margin-bottom: 20px;
+  margin-right: 20px;
+  float: right;
+  width: 25%;
+  height: 20%;
+  border-radius: 100%;
+}
+.details{
+
+  margin: 0;
+  position: absolute;
+  top: 0;
+}
+input{
+  background-color: grey;
+  color: white;
+}
+textarea{
+  background-color: grey;
+  color: white;
+}
+.message{
+  text-align: left;
+  top: 19%;
+  left: 40%;
+  position: absolute;
+
+}
+
+a{
+  display: inline;
+  font-family: fantasy;
+  font-size: 1.5rem;
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  background-color: lightblue;
+}
+.get-in-touch{
+  position: relative;
+  left: 42.5%;
+  width: 15%;
+  background-color: #11999E;
+  color: white;
+}
+.footer{
+  width: 100%;
+  height: 12rem;
+  background-color: #393e46;
+}
+h4{
+  margin:0;
+}
